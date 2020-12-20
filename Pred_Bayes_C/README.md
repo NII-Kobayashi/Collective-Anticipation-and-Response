@@ -11,6 +11,7 @@ A. Requirements
 B. Scripts for reproducing the results. 
 
 1) Pred_Bayes_CV.pl
+
 	Evaluate prediction error of the proposed method for the data set (Table 3 and 10). 
 In the default setting, the code evaluates the prediction error of the proposed method for time series (Table 3). It can also evaluate the cumulative error (Table 10) by uncommenting Line 5. In addition, it can also evaluate the error of the Bayesian method utilizing only the anticipation activity by uncommenting Line 49 and commenting out Line 52.
 
