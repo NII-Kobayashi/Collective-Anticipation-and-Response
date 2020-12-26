@@ -1,4 +1,4 @@
-# Code for "Modeing Collective Anticipation and Response on Wikipedia" (Kobayashi, Gildersleve, Uno, Lambiotte, ICWSM 2021)
+## Code for "Modeing Collective Anticipation and Response on Wikipedia"  (Kobayashi, Gildersleve, Uno, Lambiotte, ICWSM 2021)
 
 ## Directories
 
