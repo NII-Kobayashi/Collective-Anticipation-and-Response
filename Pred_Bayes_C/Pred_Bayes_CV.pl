@@ -1,10 +1,12 @@
 #  Evaluate Prediction Error: Bayesian method
-#  Version 201217: Print OK 
+#  Version 201217
 
 system ("make  Prior  Pred_Bayes_ts");   #  Error: Time Series
 # system ("make  Prior  Pred_Bayes_cum");   #  Error: Cummulative Count
 
 $t_obs=  24;     #  Observation Period: 1 (day)
+# $t_obs=  48;     #  Observation Period: 2 (days)
+# $t_obs=  72;     #  Observation Period: 3 (days)
 
 #  @cat: 5 Categories.
 $cat[0]= "Election";     $cat[1]= "Sports";
@@ -34,7 +36,7 @@ for ($i= 0; $i<5;  $i++)
 	$a_n[$n]= $d[3];    $b_n[$n]= $d[4];	$t_n[$n]= $d[5];    $n++;
     }   close(PAR);
 
-    open(PAR, "Par/$cat[$i].txt" );   $n= 1;
+    open(PAR, "Par/$cat[$i].txt" );   $n= 1;    
     #  Read $p_an, $p_ap, ...: Fitted parameters from the whole time series. 
     while(<PAR>){
         chomp;
@@ -68,4 +70,4 @@ while(<ERR>){
 print "### Num: $n \n";   
 print "#  $err_s[$n*0.5]  [ $err_s[$n*0.25]: $err_s[$n*0.75] ] \n";
 
-system ("rm  a.out  Pred_Prop");
+system ("rm  a.out  Pred_Prop  prior.txt");

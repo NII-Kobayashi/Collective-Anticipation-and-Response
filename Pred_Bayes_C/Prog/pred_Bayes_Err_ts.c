@@ -1,5 +1,5 @@
 //  Predicting future response by Bayesian method (ICWSM 2021)
-//    Version 201217:  Print OK 
+//    Version 201217 
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>

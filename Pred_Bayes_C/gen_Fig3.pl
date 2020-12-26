@@ -36,7 +36,7 @@ for ($i= 1; $i< 6;  $i++)
 	$a_n[$n]= $d[3];    $b_n[$n]= $d[4];	$t_n[$n]= $d[5];    $n++;
     }   close(PAR);
     
-    open(PAR, "Par/$cat[$i].txt" );   $n= 1;
+    open(PAR, "Par/$cat[$i].txt" );   $n= 1;    
     #  Read $p_an, $p_ap, ...: Fitted parameters from the whole time series. 
     while(<PAR>){
         chomp;
@@ -52,8 +52,6 @@ for ($i= 1; $i< 6;  $i++)
     system ("./a.out  Par/Stat/$cat[$i].txt  $p_an[$k]  $p_bn[$k]  $p_tn[$k]  $p_ap[$k]  $p_bp[$k]  $p_tp[$k]");
     system ("./Pred_Prop  $f_in  $f_out  $k_p[$k]   $t_obs  $a_c[$k]  $t_c[$k]  $a_n[$k]  $b_n[$k]  $t_n[$k]");	
 }
-
-system ("rm  a.out  Pred_Prop");
 
 #  Generate Figure 3
 #  Models:
@@ -116,3 +114,4 @@ for ($i= 1; $i< 6; $i++)
 }
 
 close(GP);
+system ("rm  a.out  Pred_Prop  prior.txt");
