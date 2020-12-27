@@ -1,0 +1,213 @@
+1	20160101	19	Ice hockey	2016 NHL Winter Classic
+2	20160131	1	American football	2016 Pro Bowl
+3	20160131	23	Ice hockey	2016 National Hockey League All-Star Game
+4	20160206	21	Formula E	2016 Buenos Aires ePrix
+5	20160207	0	American football	Super Bowl 50
+6	20160214	2	Basketball	2016 NBA All-Star Game
+7	20160220	16	Association football	2016 CAF Super Cup
+8	20160320	8	Formula One	2016 Australian Grand Prix
+9	20160326	16	Sport of athletics	2016 IAAF World Half Marathon Championships
+10	20160403	3	Pro Wrestling	WrestleMania 32
+11	20160403	18	Formula One	2016 Bahrain Grand Prix
+12	20160403	21	Motorcycle racing	2016 Argentine motorcycle Grand Prix
+13	20160410	21	Motorcycle racing	2016 Motorcycle Grand Prix of the Americas
+14	20160414	1	Basketball	2016 WNBA draft
+15	20160417	9	Formula One	2016 Chinese Grand Prix
+16	20160418	18	Association football	2015�16 UEFA Youth League
+17	20160423	16	Formula E	2016 Paris ePrix
+18	20160424	15	Marathon	2016 London Marathon
+19	20160424	14	Motorcycle racing	2016 Spanish motorcycle Grand Prix
+20	20160501	15	Formula One	2016 Russian Grand Prix
+21	20160507	23	Horse racing	2016 Kentucky Derby
+22	20160508	14	Motorcycle racing	2016 French motorcycle Grand Prix
+23	20160514	18	Rugby union	2016 European Rugby Champions Cup Final
+24	20160515	15	Formula One	2016 Spanish Grand Prix
+25	20160521	16	Formula E	2016 Berlin ePrix
+26	20160521	0	Horse racing	2016 Preakness Stakes
+27	20160522	14	Motorcycle racing	2016 Italian motorcycle Grand Prix
+28	20160526	19	Association football	2016 UEFA Women's Champions League Final
+29	20160528	22	Association football	2016 UEFA Champions League Final
+30	20160529	20	INDYCAR	2016 Indianapolis 500
+31	20160604	21	Horse racing	2016 Epsom Derby
+32	20160605	17	Motorcycle racing	2016 Catalan motorcycle Grand Prix
+33	20160611	23	Horse racing	2016 Belmont Stakes
+34	20160612	21	Formula One	2016 Canadian Grand Prix
+35	20160619	15	Formula One	2016 European Grand Prix
+36	20160623	1	Basketball	2016 NBA draft
+37	20160626	14	Motorcycle racing	2016 Dutch TT
+38	20160703	15	Formula One	2016 Austrian Grand Prix
+39	20160710	15	Formula One	2016 British Grand Prix
+40	20160712	1	Baseball	2016 Major League Baseball All-Star Game
+41	20160717	14	Motorcycle racing	2016 German motorcycle Grand Prix
+42	20160724	15	Formula One	2016 Hungarian Grand Prix
+43	20160731	15	Formula One	2016 German Grand Prix
+44	20160809	22	Association football	2016 UEFA Super Cup
+45	20160814	14	Motorcycle racing	2016 Austrian motorcycle Grand Prix
+46	20160821	14	Motorcycle racing	2016 Czech Republic motorcycle Grand Prix
+47	20160828	15	Formula One	2016 Belgian Grand Prix
+48	20160904	14	Formula One	2016 Italian Grand Prix
+49	20160904	16	Motorcycle racing	2016 British motorcycle Grand Prix
+50	20160911	13	Motorcycle racing	2016 San Marino and Rimini's Coast motorcycle Grand Prix
+51	20160918	15	Formula One	2016 Singapore Grand Prix
+52	20160925	14	Motorcycle racing	2016 Aragon motorcycle Grand Prix
+53	20161002	10	Formula One	2016 Malaysian Grand Prix
+54	20161009	10	Formula E	2016 Hong Kong ePrix
+55	20161016	7	Motorcycle racing	2016 Japanese motorcycle Grand Prix
+56	20161023	22	Formula One	2016 United States Grand Prix
+57	20161030	9	Motorcycle racing	2016 Malaysian motorcycle Grand Prix
+58	20161030	22	Formula One	2016 Mexican Grand Prix
+59	20161112	18	Formula E	2016 Marrakesh ePrix
+60	20161113	20	Formula One	2016 Brazilian Grand Prix
+61	20161113	15	Motorcycle racing	2016 Valencian Community motorcycle Grand Prix
+62	20161120	9	Formula Three	2016 Macau Grand Prix
+63	20161127	4	Canadian football	104th Grey Cup
+64	20161127	16	Formula One	2016 Abu Dhabi Grand Prix
+65	20170101	22	Ice hockey	NHL Centennial Classic
+66	20170102	22	Ice hockey	2017 NHL Winter Classic
+67	20170109	2	American football	2017 College Football Playoff National Championship
+68	20170129	2	American football	2017 Pro Bowl
+69	20170205	4	American football	Super Bowl LI
+70	20170219	2	Basketball	2017 NBA All-Star Game
+71	20170219	22	Rugby league	2017 World Club Series
+72	20170226	0	NASCAR	2017 Daytona 500
+73	20170318	17	Road bicycle racing	2017 Milan–San Remo
+74	20170326	8	Formula One	2017 Australian Grand Prix
+75	20170402	16	Road bicycle racing	2017 Tour of Flanders
+76	20170409	9	Formula One	2017 Chinese Grand Prix
+77	20170409	16	Road bicycle racing	2017 Paris–Roubaix
+78	20170416	18	Formula One	2017 Bahrain Grand Prix
+79	20170423	21	Motorcycle racing	2017 Motorcycle Grand Prix of the Americas
+80	20170423	15	Sport of athletics	2017 London Marathon
+81	20170423	16	Road bicycle racing	2017 Liège–Bastogne–Liège
+82	20170430	15	Formula One	2017 Russian Grand Prix
+83	20170430	16	Futsal	2016�17 UEFA Futsal Cup
+84	20170506	0	Horse racing	2017 Kentucky Derby
+85	20170507	14	Motorcycle racing	2017 Spanish motorcycle Grand Prix
+86	20170513	19	Rugby union	2017 European Rugby Champions Cup Final
+87	20170514	15	Formula One	2017 Spanish Grand Prix
+88	20170520	0	Horse racing	2017 Preakness Stakes
+89	20170521	14	Motorcycle racing	2017 French motorcycle Grand Prix
+90	20170527	22	Sport of athletics	Prefontaine Classic
+91	20170528	15	Formula One	2017 Monaco Grand Prix
+92	20170528	21	INDYCAR	2017 Indianapolis 500
+93	20170601	22	Association football	2017 UEFA Women's Champions League Final
+94	20170603	21	Association football	2017 UEFA Champions League Final
+95	20170603	16	Horse racing	2017 Epsom Derby
+96	20170604	14	Motorcycle racing	2017 Italian motorcycle Grand Prix
+97	20170610	23	Horse racing	2017 Belmont Stakes
+98	20170611	20	Formula One	2017 Canadian Grand Prix
+99	20170611	14	Motorcycle racing	2017 Catalan motorcycle Grand Prix
+100	20170622	1	Basketball	2017 NBA draft
+101	20170625	16	Formula One	2017 Azerbaijan Grand Prix
+102	20170625	13	Motorcycle racing	2017 Dutch TT
+103	20170702	14	Motorcycle racing	2017 German motorcycle Grand Prix
+104	20170709	14	Formula One	2017 Austrian Grand Prix
+105	20170711	1	Baseball	2017 Major League Baseball All-Star Game
+106	20170716	15	Formula One	2017 British Grand Prix
+107	20170730	15	Formula One	2017 Hungarian Grand Prix
+108	20170806	14	Motorcycle racing	2017 Czech Republic motorcycle Grand Prix
+109	20170808	20	Association football	2017 UEFA Super Cup
+110	20170813	14	Motorcycle racing	2017 Austrian motorcycle Grand Prix
+111	20170820	16	Sport of athletics	British Grand Prix (athletics)
+112	20170826	3	Boxing	Floyd Mayweather Jr. vs. Conor McGregor
+113	20170827	14	Formula One	2017 Belgian Grand Prix
+114	20170827	16	Motorcycle racing	2017 British motorcycle Grand Prix
+115	20170903	14	Formula One	2017 Italian Grand Prix
+116	20170910	14	Motorcycle racing	2017 San Marino and Rimini's Coast motorcycle Grand Prix
+117	20170917	15	Formula One	2017 Singapore Grand Prix
+118	20170924	14	Motorcycle racing	2017 Aragon motorcycle Grand Prix
+119	20171001	10	Formula One	2017 Malaysian Grand Prix
+120	20171007	16	Road bicycle racing	2017 Il Lombardia
+121	20171008	8	Formula One	2017 Japanese Grand Prix
+122	20171015	7	Motorcycle racing	2017 Japanese motorcycle Grand Prix
+123	20171022	22	Formula One	2017 United States Grand Prix
+124	20171022	12	Motorcycle racing	2017 Australian motorcycle Grand Prix
+125	20171029	9	Motorcycle racing	2017 Malaysian motorcycle Grand Prix
+126	20171029	22	Formula One	2017 Mexican Grand Prix
+127	20171112	19	Formula One	2017 Brazilian Grand Prix
+128	20171112	15	Motorcycle racing	2017 Valencian Community motorcycle Grand Prix
+129	20171126	16	Formula One	2017 Abu Dhabi Grand Prix
+130	20171126	7	Horse racing	Japan Cup
+131	20171126	2	Canadian football	105th Grey Cup
+132	20171216	1	Ice hockey	NHL 100 Classic
+133	20180101	19	Ice hockey	2018 NHL Winter Classic
+134	20180127	23	Horse racing	Pegasus World Cup
+135	20180128	21	American football	2018 Pro Bowl
+136	20180203	21	Formula E	2018 Santiago ePrix
+137	20180204	4	American football	Super Bowl LII
+138	20180216	11	Rugby league	2018 World Club Challenge
+139	20180218	0	NASCAR	2018 Daytona 500
+140	20180218	2	Basketball	2018 NBA All-Star Game
+141	20180224	19	Association football	2018 CAF Super Cup
+142	20180317	17	Road bicycle racing	2018 Milan–San Remo
+143	20180325	8	Formula One	2018 Australian Grand Prix
+144	20180331	22	Professional boxing	Anthony Joshua vs. Joseph Parker
+145	20180401	16	Road bicycle racing	2018 Tour of Flanders
+146	20180408	18	Formula One	2018 Bahrain Grand Prix
+147	20180408	20	Motorcycle racing	2018 Argentine motorcycle Grand Prix
+148	20180408	16	Road bicycle racing	2018 Paris–Roubaix
+149	20180412	1	Basketball	2018 WNBA draft
+150	20180414	16	Formula E	2018 Rome ePrix
+151	20180414	17	Horse racing	2018 Grand National
+152	20180415	9	Formula One	2018 Chinese Grand Prix
+153	20180416	17	Marathon	2018 Boston Marathon
+154	20180416	17	Marathon	World Marathon Majors
+155	20180422	12	Marathon	2018 London Marathon
+156	20180422	21	Motorcycle racing	2018 Motorcycle Grand Prix of the Americas
+157	20180422	16	Road bicycle racing	2018 Liège–Bastogne–Liège
+158	20180423	18	Association football	2017�18 UEFA Youth League
+159	20180429	15	Formula One	2018 Azerbaijan Grand Prix
+160	20180505	23	Thoroughbred horse racing	2018 Kentucky Derby
+161	20180506	14	Motorcycle racing	2018 Spanish motorcycle Grand Prix
+162	20180512	16	Rugby union	2018 European Rugby Champions Cup Final
+163	20180513	16	Formula One	2018 Spanish Grand Prix
+164	20180516	20	Association football	2018 UEFA Europa League Final
+165	20180520	14	Motorcycle racing	2018 French motorcycle Grand Prix
+166	20180524	19	Association football	2018 UEFA Women's Champions League Final
+167	20180526	19	Association football	2018 UEFA Champions League Final
+168	20180527	16	Formula One	2018 Monaco Grand Prix
+169	20180527	20	INDYCAR	2018 Indianapolis 500
+170	20180602	16	Thoroughbred horse racing	2018 Epsom Derby
+171	20180603	14	Motorcycle racing	2018 Italian motorcycle Grand Prix
+172	20180607	20	Sport of athletics	Bislett Games
+173	20180609	23	Thoroughbred horse racing	2018 Belmont Stakes
+174	20180610	21	Formula One	2018 Canadian Grand Prix
+175	20180617	14	Motorcycle racing	2018 Catalan motorcycle Grand Prix
+176	20180621	1	Basketball	2018 NBA draft
+177	20180624	17	Formula One	2018 French Grand Prix
+178	20180701	16	Formula One	2018 Austrian Grand Prix
+179	20180701	14	Motorcycle racing	2018 Dutch TT
+180	20180708	16	Formula One	2018 British Grand Prix
+181	20180715	14	Motorcycle racing	2018 German motorcycle Grand Prix
+182	20180715	5	Professional boxing	Manny Pacquiao vs. Lucas Matthysse
+183	20180717	1	Baseball	2018 Major League Baseball All-Star Game
+184	20180722	16	Formula One	2018 German Grand Prix
+185	20180729	16	Formula One	2018 Hungarian Grand Prix
+186	20180805	14	Motorcycle racing	2018 Czech Republic motorcycle Grand Prix
+187	20180807	16	Mountain bike racing	2018 European Mountain Bike Championships
+188	20180812	14	Motorcycle racing	2018 Austrian motorcycle Grand Prix
+189	20180815	22	Association football	2018 UEFA Super Cup
+190	20180826	16	Formula One	2018 Belgian Grand Prix
+191	20180830	20	Sport of athletics	2018 IAAF Diamond League
+192	20180831	20	Sport of athletics	2018 IAAF Diamond League
+193	20180902	16	Formula One	2018 Italian Grand Prix
+194	20180909	14	Motorcycle racing	2018 San Marino and Rimini's Coast motorcycle Grand Prix
+195	20180915	5	Professional boxing	Canelo Álvarez vs. Gennady Golovkin II
+196	20180916	15	Formula One	2018 Singapore Grand Prix
+197	20180923	14	Motorcycle racing	2018 Aragon motorcycle Grand Prix
+198	20180930	14	Formula One	2018 Russian Grand Prix
+199	20181007	8	Formula One	2018 Japanese Grand Prix
+200	20181007	9	Motorcycle racing	2018 Thailand motorcycle Grand Prix
+201	20181021	21	Formula One	2018 United States Grand Prix
+202	20181021	8	Motorcycle racing	2018 Japanese motorcycle Grand Prix
+203	20181028	22	Formula One	2018 Mexican Grand Prix
+204	20181028	7	Motorcycle racing	2018 Australian motorcycle Grand Prix
+205	20181104	7	Motorcycle racing	2018 Malaysian motorcycle Grand Prix
+206	20181111	20	Formula One	2018 Brazilian Grand Prix
+207	20181118	16	Motorcycle racing	2018 Valencian Community motorcycle Grand Prix
+208	20181125	2	Canadian football	106th Grey Cup
+209	20181125	16	Formula One	2018 Abu Dhabi Grand Prix
+210	20181201	17	Auto racing	2018 FIA GT Nations Cup
+211	20181201	4	Professional boxing	Deontay Wilder vs. Tyson Fury
+212	20181209	14	Cross country running	2018 European Cross Country Championships
+213	20181215	14	Formula E	Ad Diriyah ePrix
