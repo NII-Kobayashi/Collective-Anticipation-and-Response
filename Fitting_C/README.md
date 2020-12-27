@@ -27,7 +27,7 @@
    
 
 ### 2) gen_Fig1.pl
-	Plotting the fitting results of the proposed model (Figure 1). 
+  Plotting the fitting results of the proposed model (Figure 1). 
   
   Type to execute:
    
