@@ -23,7 +23,7 @@
 
    Each file consists of 10 columns: 
    
-   *file_name  alpha_c  t_c  a_-  b_-  tau_-  a_+  b_+  tau_+  fitting_error. 
+      *file_name  alpha_c  t_c  a_-  b_-  tau_-  a_+  b_+  tau_+  fitting_error. 
    
 
 ### 2) gen_Fig1.pl
