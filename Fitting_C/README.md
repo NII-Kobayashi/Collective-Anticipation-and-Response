@@ -40,7 +40,7 @@
 
 ### 1) fit_daily.c
 
-   This code fits daily parameters (a_-, b_-, tau_-, a_+, a_- , and tau_+) from time series to obtain initial parameters.
+   This code fits daily parameters (a_-, b_-, tau_-, a_+, b_+, and tau_+) from time series to obtain initial parameters.
    
    Type to compile:
    
@@ -56,7 +56,7 @@
 
 ### 2) fit_hourly.c 
 
-   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, a_- , and tau_+) from time series.
+   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, b_+, and tau_+) from time series.
    
    Type to compile:
    
@@ -76,7 +76,7 @@
 
 ### 3) fit_hourly_rmp.c 
 
-   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, a_- , and tau_+) from time series with removing (sub-)peaks. (Used for Football and Holiday data)
+   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, b_+, and tau_+) from time series with removing (sub-)peaks. (Used for Football and Holiday data)
    
    Type to compile:
    
@@ -96,7 +96,7 @@
 
 ### 4) fit_example.c 
 
-   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, a_- , and tau_+) from time series and compare the fitted time series with the data. 
+   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, b_+, and tau_+) from time series and compare the fitted time series with the data. 
    
    Type to compile:
    
@@ -118,7 +118,7 @@
      
 ### 5) fit_example_rmp.c 
 
-   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, a_- , and tau_+) from time series with removing (sub-)peaks and compare the fitted time series with the data. (Used for Football and Holiday data)
+   This code fits all the parameters (alpha_c, t_c, a_-, b_-, tau_-, a_+, b_+, and tau_+) from time series with removing (sub-)peaks and compare the fitted time series with the data. (Used for Football and Holiday data)
    
    Type to compile:
    
@@ -183,11 +183,11 @@
       
       $Date: Date of the football match.             
       
-      $Team: Football club team. Note that each match corresponds to two timeseries (a football team and its opponent team).
+      $Team: Name of the football club team. Note that each match corresponds to two timeseries (a football team and its opponent).
       
-      $Type: Type of the match (4: Group stage, 3: Knockout stage, 1: Final match).
+      $Type: Type of the match (4: Group stage, 3: Knockout stage, 1: Final).
       
-      $Win: Result of the match (1: $Team won, 0: Draw, -1: $Team lost the match).
+      $Win: Outcome of the match (1: $Team won, 0: Draw, -1: $Team lost the match).
 
 
 ### 4) Film.csv
@@ -238,6 +238,6 @@
    
    where
    
-      *File: File name of the event
+      *File: File name of the time series
       
-      $error: Fitting error evaluated by 1- R^2, where R^2 is the coefficient of determination (Equation 2 in the paper).    
+      $error: Fitting error evaluated by 1- R^2, where R^2 is the coefficient of determination (Equation 2 in the paper).
