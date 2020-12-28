@@ -151,9 +151,9 @@
    
       $ID:  ID of the peak corresponding to the file name in the "Data/Election" directory.       
       
-      $Date: date of the election. 
+      $Date: Date of the election. 
       
-      $Peak_time: peak time of the Wikipedia time series (UTF).
+      $Peak_time: Peak time of the Wikipedia time series (UTF).
 
 
 ### 2) Sports.csv
@@ -166,9 +166,9 @@
    
       $ID:  ID of the peak corresponding to the file name in the "Data/Sports" directory. 
       
-      $Date: date of the sports event.             
+      $Date: Date of the sports event.             
       
-      $Event: sports event (e.g., Basketball and American football).            
+      $Event: Sports event (e.g., Basketball and American football).            
 
 
 ### 3) Foot.csv
@@ -181,13 +181,13 @@
    
       $ID:  ID of the peak corresponding to the file name in the "Data/Foot" directory. 
       
-      $Date: date of the football match.             
+      $Date: Date of the football match.             
       
-      $Team: football club team. Note that each match corresponds to two timeseries (a football team and its opponent team).
+      $Team: Football club team. Note that each match corresponds to two timeseries (a football team and its opponent team).
       
-      $Type: type of the match (4: Group stage, 3: Knockout stage, 1: Final match).
+      $Type: Type of the match (4: Group stage, 3: Knockout stage, 1: Final match).
       
-      $Win: result of the match (1: $Team won, 0: Draw, -1: $Team lost the match).
+      $Win: Result of the match (1: $Team won, 0: Draw, -1: $Team lost the match).
 
 
 ### 4) Film.csv
@@ -200,7 +200,7 @@
    
       $ID:  ID of the peak corresponding to the file name in the "Data/Film" directory. 
       
-      $Date: date of the film release.             
+      $Date: Date of the film release.             
 
 
 ### 5) Holiday.csv
@@ -213,7 +213,7 @@
    
       $ID:  ID of the peak corresponding to the file name in the "Data/Holiday" directory. 
       
-      $Date: date of the holiday.    
+      $Date: Date of the holiday.    
      
 
 
@@ -238,8 +238,6 @@
    
    where
    
-      *File: file name of the event
+      *File: File name of the event
       
-      $error: fitting error evaluated by 1- R^2, where R^2 is the coefficient of determination (Equation 2 in the paper). 
-   
-
+      $error: Fitting error evaluated by 1- R^2, where R^2 is the coefficient of determination (Equation 2 in the paper).    
