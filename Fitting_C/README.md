@@ -205,15 +205,17 @@
 
 ### 5) Holiday.csv
 
-   Information of 58 national Holidays (1-43: USA, 44-58: UK and AUS). This file consists of 4 columns: 
+   Information of 58 national Holidays (1-43: USA, 44-58: UK and AUS). This file consists of 5 columns: 
    
-      $ID   $Date   $Peak_time   $Title
+      $ID   $Date   $Peak_time   $Title   $country
    
    where
    
       $ID:  ID of the peak corresponding to the file name in the "Data/Holiday" directory. 
       
       $Date: Date of the holiday.    
+      
+      $county: USA (United States), UK (United Kingdom), or AUS (Australia)
      
 
 
