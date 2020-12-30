@@ -1,5 +1,5 @@
-# C code for fitting Wikipedia time series	(Kobayashi, Gildersleve, Uno, Lambiotte, ICWSM 2021)
-
+# Fitting Wikipedia time series	(Kobayashi, Gildersleve, Uno, Lambiotte, ICWSM 2021)
+C code for fitting Wikipedia time series	(Kobayashi, Gildersleve, Uno, Lambiotte, ICWSM 2021)
 
 ## A. Requirements
 
