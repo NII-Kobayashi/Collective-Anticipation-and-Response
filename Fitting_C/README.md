@@ -243,3 +243,13 @@
       *File: File name of the time series
       
       $error: Fitting error evaluated by 1- R^2, where R^2 is the coefficient of determination (Equation 2 in the paper).
+
+
+## Licence
+MIT
+
+Please contact [Ryota Kobayashi](http://www.hk.k.u-tokyo.ac.jp/r-koba/en/index.html) if you want to use the code for commercial purposes.
+
+
+## The program was developed by
+Ryota Kobayashi
