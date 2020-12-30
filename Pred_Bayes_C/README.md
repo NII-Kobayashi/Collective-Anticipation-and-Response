@@ -177,3 +177,12 @@ The 2nd, 3rd, and 4th row shows the mean and covariance:
 
    Each file consists of 337 rows (before and after 7 days), and each row shows the number of page views in each hour.  
 
+
+## Licence
+MIT
+
+Please contact [Ryota Kobayashi](http://www.hk.k.u-tokyo.ac.jp/r-koba/en/contact.html) if you want to use the code for commercial purposes.
+
+
+## The program was developed by
+Ryota Kobayashi
