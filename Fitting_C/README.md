@@ -248,7 +248,7 @@
 ## Licence
 MIT
 
-Please contact [Ryota Kobayashi](http://www.hk.k.u-tokyo.ac.jp/r-koba/en/index.html) if you want to use the code for commercial purposes.
+Please contact [Ryota Kobayashi](http://www.hk.k.u-tokyo.ac.jp/r-koba/en/contact.html) if you want to use the code for commercial purposes.
 
 
 ## The program was developed by
